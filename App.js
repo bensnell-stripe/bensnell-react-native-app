@@ -400,7 +400,7 @@ function App() {
         {'\n'}
       </Text>
       <USBankAccountSetUpScreen />
-      <GooglePayComponent />
+      {/* <GooglePayComponent /> */}
     </StripeProvider>
   );
 }
